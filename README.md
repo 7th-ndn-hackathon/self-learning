@@ -8,4 +8,5 @@ Team members:
 * [Ju Pan](https://github.com/jupan1994)
 * Md Ashiqur Rahman
 
-## [Presentation: link](https://docs.google.com/presentation/d/15p6E4KOiw6iL3AhdDeeY-_k7pQgdqtQ9IgBI-Ob8k8w/edit?usp=sharing)
+## Presentation: 
+Here is the [link](https://docs.google.com/presentation/d/15p6E4KOiw6iL3AhdDeeY-_k7pQgdqtQ9IgBI-Ob8k8w/edit?usp=sharing)
